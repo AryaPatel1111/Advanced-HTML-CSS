@@ -1,0 +1,18 @@
+.dot{
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -80px;
+  margin-left: -100px;
+}
+
+div.split{
+    	width:1166px;
+    	height:664px;
+    	background: linear-gradient(to left, #d5ff80 50%, #d580ff 50%);
+    }
